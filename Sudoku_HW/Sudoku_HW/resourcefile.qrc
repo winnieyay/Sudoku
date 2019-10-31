@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/questionFile.txt</file>
+        <file>resource/su_infile.txt</file>
+        <file>resource/su_outfile.txt</file>
+    </qresource>
+</RCC>
